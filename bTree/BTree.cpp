@@ -2,12 +2,16 @@
 #include"Public.h"
 #include"Stack.h"
 #include"Queue.h"
+
+/**
+ * 树以中序序列输入，这里以递归的方式创建树
+*/
 BNode* createBTree()
 {
 	BNode* bt;
 	char ch;
 	scanf("%c",&ch);
-	if (ch == '#') {
+	if (ch == '#') {    
 		bt = NULL;
 	}
 	else {
@@ -19,6 +23,9 @@ BNode* createBTree()
 	return bt;
 }
 
+/**
+ * 层序遍历算法
+*/
 void Level(BNode* root)
 {
 	BNode* t = root;
@@ -35,7 +42,9 @@ void Level(BNode* root)
 		}
 	}
 }
-
+/**
+ * 中序非递归算法遍历二叉树
+*/
 void inorder(BNode* root)
 {
 	Stack stack = createStack();

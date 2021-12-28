@@ -8,7 +8,6 @@ struct BNode {
 };
 
 BNode* createBTree();
-
 void Level(BNode* root);
 void inorder(BNode* root);
 void destoryTree(BNode* root);

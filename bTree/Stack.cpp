@@ -2,6 +2,11 @@
 #include"Stack.h"
 #include"BTree.h"
 
+
+/**
+ * 栈这部分同样没有考虑栈空或满的情况，就这考试而言，完全够用
+*/
+
 Stack createStack()
 {
 	Stack ret;
