@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+D:\chengxu\finalTestDataStruct\search\Graph.cpp(7,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chengxu\finalTestDataStruct\search\Graph.cpp(11,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  search.vcxproj -> D:\chengxu\finalTestDataStruct\search\Debug\search.exe
