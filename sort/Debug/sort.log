@@ -1,6 +1,1 @@
-﻿  main.cpp
-D:\chengxu\finalTestDataStruct\sort\main.cpp(59,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\chengxu\finalTestDataStruct\sort\main.cpp(60,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\chengxu\finalTestDataStruct\sort\main.cpp(67,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\chengxu\finalTestDataStruct\sort\main.cpp(69,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  sort.vcxproj -> D:\chengxu\finalTestDataStruct\sort\Debug\sort.exe
+﻿
